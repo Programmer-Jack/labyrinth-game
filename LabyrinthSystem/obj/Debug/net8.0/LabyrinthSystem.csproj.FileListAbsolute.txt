@@ -1,0 +1,14 @@
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\bin\Debug\net8.0\LabyrinthSystem.exe
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\bin\Debug\net8.0\LabyrinthSystem.deps.json
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\bin\Debug\net8.0\LabyrinthSystem.runtimeconfig.json
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\bin\Debug\net8.0\LabyrinthSystem.dll
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\bin\Debug\net8.0\LabyrinthSystem.pdb
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.AssemblyInfoInputs.cache
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.AssemblyInfo.cs
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.csproj.CoreCompileInputs.cache
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.dll
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\refint\LabyrinthSystem.dll
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.pdb
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\LabyrinthSystem.genruntimeconfig.cache
+C:\Users\jack\Desktop\Code_Projects\Labyrinth_System\LabyrinthSystem\obj\Debug\net8.0\ref\LabyrinthSystem.dll

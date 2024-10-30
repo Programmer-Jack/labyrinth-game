@@ -1,0 +1,28 @@
+10.30.2024
+
+Creating a size selection system for labyrinth generation.
+
+Ideas:
+
+string array
+string[] sizes = { ... }
+
+tuple array
+(string name, int width)[] sizes = { ... }
+
+enum
+enum Sizes
+{
+	Small = ,
+	Medium,
+	...
+}
+
+struct array
+SizeOption[] sizes =
+{
+	new SizeOption()
+	{
+		// name and width etc
+	}
+}
