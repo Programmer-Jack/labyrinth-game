@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth_system\\labyrinthsystem\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:labyrinth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth_system\\labyrinthsystem\\iselectableoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\sizeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:sizeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\iselectableoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:iselectableoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth_system\\labyrinthsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth-game\\labyrinthsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|c:\\users\\jack\\desktop\\code_projects\\labyrinth_system\\labyrinthsystem\\sizeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{820C32BF-5699-44D5-BFA0-1B00B37D271D}|LabyrinthSystem.csproj|solutionrelative:sizeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,24 +54,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ISelectableOption.cs",
-              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\ISelectableOption.cs",
-              "RelativeDocumentMoniker": "ISelectableOption.cs",
-              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\ISelectableOption.cs",
-              "RelativeToolTip": "ISelectableOption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T20:55:20.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,28 +67,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "ISelectableOption.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\ISelectableOption.cs",
+              "RelativeDocumentMoniker": "ISelectableOption.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\ISelectableOption.cs",
+              "RelativeToolTip": "ISelectableOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:55:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SizeOption.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\SizeOption.cs",
+              "RelativeDocumentMoniker": "SizeOption.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\SizeOption.cs",
+              "RelativeToolTip": "SizeOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:43:19.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\DisplayManager.cs",
+              "RelativeDocumentMoniker": "DisplayManager.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\DisplayManager.cs",
+              "RelativeToolTip": "DisplayManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:07:37.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\InputManager.cs",
+              "RelativeDocumentMoniker": "InputManager.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\InputManager.cs",
+              "RelativeToolTip": "InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:02:44.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\Game.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T20:40:46.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SizeOption.cs",
-              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\SizeOption.cs",
-              "RelativeDocumentMoniker": "SizeOption.cs",
-              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\Labyrinth_System\\LabyrinthSystem\\SizeOption.cs",
-              "RelativeToolTip": "SizeOption.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T18:43:19.712Z",
+              "WhenOpened": "2024-10-31T05:09:16.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Labyrinth.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Labyrinth.cs",
+              "RelativeDocumentMoniker": "Labyrinth.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Labyrinth.cs",
+              "RelativeToolTip": "Labyrinth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:35:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Cell.cs",
+              "RelativeDocumentMoniker": "Cell.cs",
+              "ToolTip": "C:\\Users\\jack\\Desktop\\Code_Projects\\labyrinth-game\\LabyrinthSystem\\Cell.cs",
+              "RelativeToolTip": "Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:53:09.024Z",
               "EditorCaption": ""
             }
           ]
